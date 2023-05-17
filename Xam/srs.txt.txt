@@ -1,0 +1,50 @@
+
+
+
+Online project Management tool-
+ Introduction
+   Purpose
+   The purpose of this document is to provide a detailed description of the requirements for the Employee Management System. It outlines the functional and non-functional requirements, constraints, and interfaces of the system.
+
+
+Terms-
+Employees, project Manager, Delivery Manager and stackholders
+
+ Objective- to manager the online system for the client so that the management of the 
+function would work according to online. This will rpovide the functionally and maintain the
+
+functional requirements:
+
+1)employees should be authenticated.
+we have to take employee all information which are name,email,mobile no etc 
+for registration purposes and after that we should  check whether data is unique meaning whether two employee provided same email or not
+then we have to validate that data
+
+2) view and update information :
+employees, project manager, delivery manager should be able to view and update his application after login 
+
+
+3)Administrators should be able to add, update, and delete employee records.
+
+4) Each employee record should include details such as name, employee ID, contact information, designation, and department.
+
+
+
+
+Non functional requriement are-
+
+1) It would run and available 24*7.
+2) It would be scalable when the traffic cross the saturation point.
+3) It should be easily portable.
+4) It must be provided the security and authentication functionality.
+5)The user interface should be intuitive and user-friendly.
+6)The online project management system will be developed using a web-based architecture.
+7)Software Requirements Specification (SRS) Document: Employee Management System
+8)The system will provide a web-based user interface for administrators, managers, and employees to interact with.
+9) Database: The system will interact with a database to store and retrieve employee information, attendance records, and leave requests.
+Note: This is a simplified example of an SRS document. In real-world scenarios, the document would typically include additional sections, such as system architecture, use case diagrams, data flow diagrams, and more detailed functional and non-functional requirements.
+
+
+
+
+

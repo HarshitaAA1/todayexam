@@ -1,0 +1,9 @@
+
+
+Business Entities.
+i) Employee ii) project Manager iii) DElivery Manger iv) Stackholder
+
+Business Operations.
+i) Employee: Login,,view informations, check in project details.
+ii) Manager :- Update, add details of employee and also track the information.
+iii)DElivery Manger- track the delivering product
